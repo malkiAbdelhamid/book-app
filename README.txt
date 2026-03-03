@@ -8,7 +8,7 @@ docker build -t express-docker-app .
 
 2. **Run the Docker container**
 ```bash
-docker run -p 3000:3000 express-docker-app
+docker run -p 3000:3000 express-docker-apprkrk
 ```hh
 cc^^
 3. **Test the CRUD API**4ff
